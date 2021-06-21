@@ -1,0 +1,23 @@
+.body_backgorund {
+	background-image: url("speach.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+
+#logout_btn{
+    background-color:darkgoldenrod;
+    font-size:30px;
+    color:darkkhaki;
+}
+
+#room_name{
+    font-size:20px;
+    background-color:chartreuse;
+}
+
+#addRoom{
+    width:60px;
+    background-color:darkgreen;
+    height:20px;
+}
